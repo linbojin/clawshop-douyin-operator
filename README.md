@@ -50,7 +50,7 @@ git clone https://github.com/linbojin/clawshop-douyin-operator \
 |-------|------|
 | [clawshop-data-manager](https://github.com/linbojin/clawshop-data-manager) | 飞书商品候选库管理 |
 | [clawshop-inspiration](https://github.com/linbojin/clawshop-inspiration) | 全渠道选品商机发现 |
-| [1688-shopkeeper](https://github.com/linbojin/1688-mcp-public) | 1688搜品/铺货 |
+| [1688-shopkeeper](https://github.com/next-1688/1688-shopkeeper) | 1688搜品/铺货 |
 
 ---
 
